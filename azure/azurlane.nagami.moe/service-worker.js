@@ -1,0 +1,1 @@
+try{self["workbox:core:7.0.0"]&&_()}catch{}typeof registration<"u"&&registration.scope;try{self["workbox:precaching:7.0.0"]&&_()}catch{}try{self["workbox:strategies:7.0.0"]&&_()}catch{}try{self["workbox:routing:7.0.0"]&&_()}catch{}

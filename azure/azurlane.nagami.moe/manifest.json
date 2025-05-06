@@ -1,0 +1,15 @@
+{
+	"name": "Azurlane utility",
+	"short_name": "AL utility",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#7d7fb2",
+	"background_color": "#ede2ea",
+	"icons": [
+		{
+			"sizes": "232x232",
+			"src": "salatuojia_h.png",
+			"type": "image/png"
+		}
+	]
+}
